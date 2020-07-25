@@ -1,0 +1,26 @@
+.contenedor-mayor {
+    background-color: pink;
+    text-align: center;
+    padding: 40px;
+}
+
+.contenedor-chico {
+    background-color: white;
+    display: inline-block;
+    padding: 30px;
+    border: 3px solid gray;
+    border-radius: 5px;
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.imagenes {
+    width: 90px;
+    height: auto;
+}
